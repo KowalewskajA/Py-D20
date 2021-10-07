@@ -5,8 +5,16 @@ Is a short commandline tool that evaluates dice strings that you would find in a
 # Input
 
 It processes:
+
 sum:=expression{+|-}expression
+
 expression:={number|''}d{number}
+
+# Output
+
+It will calculate the roll twice so you would see what it would be with dis|-advantage:
+
+{expression}: (1){result_1} (2){result_2}
 
 # Example
 
