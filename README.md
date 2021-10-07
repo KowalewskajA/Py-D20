@@ -6,7 +6,7 @@ Is a short commandline tool that evaluates dice strings that you would find in a
 
 It processes:
 
-sum:=expression{+|-}expression
+sum:=expression{+|-}expression;
 expression:={number|''}d{number}
 
 # Output
