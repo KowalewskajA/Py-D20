@@ -17,7 +17,7 @@ It will calculate the roll twice so you would see what it would be with dis|-adv
 
 # Example
 
-If you provite the same expression more than one the cache Object will be reused, which will be mentioned in the output.
+If you provide the same expression more than one the cache Object will be reused, which will be mentioned in the output.
 
 ```console
 foo@bar:~$ py Py-D20.py
